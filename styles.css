@@ -1,8 +1,21 @@
-body {
+/*body {
     background-color:#EB984E;
   }
+  */
 img{
   width: 300px;
-  transform: rotate(270deg);
   margin-top: 50px;
+}
+
+LI {
+  font-size: 30px;
+  font-family: sans-serif;
+}
+
+.home_background{
+  background-color: yellow;
+}
+
+.dog_background{
+  background-color: green;
 }
