@@ -3,7 +3,7 @@
   }
   */
 img{
-  width: 300px;
+  width: 725px;
   margin-top: 50px;
 }
 
@@ -12,10 +12,21 @@ LI {
   font-family: sans-serif;
 }
 
-.home_background{
-  background-color: yellow;
+.home_background {
+    background-color: burlywood;
 }
 
 .dog_background{
   background-color: white;
+}
+
+table, th, td {
+   border: 1px solid black;
+}
+
+
+H3.main_heading {
+  font-family:cursive;
+  color: red;
+  font-size: 40pt;
 }
