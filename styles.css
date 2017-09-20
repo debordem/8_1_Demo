@@ -20,13 +20,22 @@ LI {
   background-color: white;
 }
 
-table, th, td {
-   border: 1px solid black;
-}
 
 
 H3.main_heading {
   font-family:cursive;
   color: red;
   font-size: 40pt;
+}
+
+.description{
+  background-color: cyan;
+}
+.description p{
+  font-family: cursive;
+  font-size: 20pt;
+}
+
+.description table{
+  background-color: pink;
 }
