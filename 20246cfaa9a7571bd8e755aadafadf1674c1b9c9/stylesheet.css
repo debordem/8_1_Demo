@@ -1,8 +1,22 @@
 /* css stylesheet */
+*{margin:0;
+  padding:0;}
+
 H1 { color:red;}
+
+#header{
+  position: relative;
+  height: :100px;
+  width:100%;
+  background-color: red;
+}
 
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+}
+
+img.puppy{
+  width:125px;
 }
